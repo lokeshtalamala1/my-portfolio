@@ -88,7 +88,11 @@ nav ul li a:hover::after {
 .hero {
   text-align: center;
   padding: 8rem 2rem 4rem;
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  /* Updated Background with the new abstract geometric image */
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/one.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; 
   color: var(--white);
   min-height: 100vh;
   display: flex;
