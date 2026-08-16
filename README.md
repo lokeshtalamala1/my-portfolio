@@ -60,7 +60,7 @@ I'm **Lokesh Talamala**, an M.Tech Computer Science student at IIT Madras passio
 ## 📬 Contact
 
 - 📧 Email: [lokeshtalamala1@gmail.com](mailto:lokeshtalamala1@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/lokesh-talamala/](https://www.linkedin.com/in/lokesh-talamala/)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/lokesh-talamala-iitm/](https://www.linkedin.com/in/lokesh-talamala-iitm/)
 - 🐙 GitHub: [https://github.com/lokeshtalamala1](https://github.com/lokeshtalamala1)
 
 ---
