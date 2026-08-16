@@ -1,5 +1,5 @@
 // Example: Scroll animation or interactive buttons
-console.log("Welcome to my portfolio!");
+console.log("Welcome to my portfolio!"); 
 
 // Theme Switcher
 const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
