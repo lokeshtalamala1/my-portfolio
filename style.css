@@ -88,7 +88,10 @@ nav ul li a:hover::after {
 .hero {
   text-align: center;
   padding: 8rem 2rem 4rem;
-  /* Updated Background with the new abstract geometric image */
+  /* Override the global section max-width to span full screen */
+  max-width: 100%;
+  margin: 0;
+  /* Background properties */
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/one.jpg');
   background-size: cover;
   background-position: center;
