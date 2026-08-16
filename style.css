@@ -486,9 +486,9 @@ section h2::after {
 }
 
 .main-project-content ul li {
-  color: var(--primary-color); /* Change bullet point color to primary blue */
-  font-weight: 600; /* Make it bold */
-  margin-bottom: 0.5rem; /* Add space between list items */
+  color: var(--text-color); /* Changed to standard text color */
+  font-weight: 400; /* Reduced from 600 to make it standard readable text */
+  margin-bottom: 0.5rem; 
 }
 
 /* Styles for showing sub-projects */
